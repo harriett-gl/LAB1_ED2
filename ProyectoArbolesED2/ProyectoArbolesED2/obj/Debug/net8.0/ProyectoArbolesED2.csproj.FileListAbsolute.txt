@@ -1,0 +1,36 @@
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.exe
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.deps.json
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.runtimeconfig.json
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.dll
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.pdb
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.csproj.AssemblyReference.cache
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.AssemblyInfoInputs.cache
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.AssemblyInfo.cs
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.csproj.CoreCompileInputs.cache
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/Proyecto.F6FA6A55.Up2Date
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.dll
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/refint/ProyectoArbolesED2.dll
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.pdb
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.genruntimeconfig.cache
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ref/ProyectoArbolesED2.dll
+C:/Users/escal/OneDrive/Documentos/Ingeniera en Informatica y Sistema URL/1 año Universidad Sistemas/Visual Programas/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/CsvHelper.dll
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.deps.json
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.runtimeconfig.json
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.dll
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/ProyectoArbolesED2.pdb
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/CsvHelper.dll
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.csproj.AssemblyReference.cache
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.AssemblyInfoInputs.cache
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.AssemblyInfo.cs
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.csproj.CoreCompileInputs.cache
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/Proyecto.F6FA6A55.Up2Date
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.dll
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/refint/ProyectoArbolesED2.dll
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.pdb
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ProyectoArbolesED2.genruntimeconfig.cache
+/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/obj/Debug/net8.0/ref/ProyectoArbolesED2.dll

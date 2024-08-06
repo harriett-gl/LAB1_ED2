@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rzZfKCw5i5syRA0YDXDjUhyads5KPn/hrz5dBlStsIT4rHb98BNA5ShZQ8xa+DeuME+N3V8DUI7wYiFBSjWZYA==",
+  "success": true,
+  "projectFilePath": "/Users/harriett/Downloads/ProyectoArbolesED2/ProyectoArbolesED2/ProyectoArbolesED2.csproj",
+  "expectedPackageFiles": [
+    "/Users/harriett/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/harriett/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
