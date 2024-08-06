@@ -8,9 +8,9 @@ class Program
 {
     static void Main()
     {
-        var bTree = new BTree(3); // Inicializar Árbol B con grado 3
+        var bTree = new BTree(3); //Árbol B con grado 3
 
-        // Leer lab01_books.csv
+        //Leer los libros
         var booksPath = @"/Users/harriett/Downloads/lab01_books.csv";
         var lines = File.ReadAllLines(booksPath);
         foreach (var line in lines)
@@ -37,7 +37,7 @@ class Program
             }
         }
 
-        // Leer lab01_search.csv
+        //leer el segundo archivo
         var searchPath = @"/Users/harriett/Downloads/lab01_search.csv";
         var searchLines = File.ReadAllLines(searchPath);
         var results = new List<Book>();
@@ -58,7 +58,7 @@ class Program
             }
         }
 
-        // Escribir resultados en lab01_result.txt
+        //los resultados (resultados)
         var resultPath = @"/Users/harriett/Downloads/lab01_result.txt";
         using (var writer = new StreamWriter(resultPath))
         {
@@ -67,8 +67,7 @@ class Program
                 writer.WriteLine(JsonConvert.SerializeObject(result));
             }
         }
-
-        // Mostrar resultados en consola
+        
         foreach (var result in results)
         {
             Console.WriteLine(JsonConvert.SerializeObject(result));
